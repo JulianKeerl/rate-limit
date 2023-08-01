@@ -1,0 +1,6 @@
+name: rate-limit
+
+inputs:
+  token:
+    description: github token
+    required: true
